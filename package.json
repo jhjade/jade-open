@@ -1,0 +1,30 @@
+{
+  "name": "jade-open",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/jade-open.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack",
+    "build:watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhjade/jade-open.git"
+  },
+  "keywords": [
+    "jade",
+    "open"
+  ],
+  "author": "jaderd",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.33.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "bugs": {
+    "url": "https://github.com/jhjade/jade-open/issues"
+  },
+  "homepage": "https://github.com/jhjade/jade-open#readme"
+}
